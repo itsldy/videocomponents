@@ -1,6 +1,7 @@
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
+datav 组件，以及使用video.js加载m3u8监控视频。
 
 ## Recommended IDE Setup
 
